@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-<img src="https://i.imgur.com/YOUR_BANNER_IMAGE.png" alt="Banner" width="100%" />
+<img src="https://i.ibb.co/Zz9BV3P7/Purple-Modern-Gaming-Youtube-Banner.png" alt="Banner" width="100%" />
 
 <h1 align="center">Hi there, I'm Abuzar Hasan Himu 👋</h1>
 <h3 align="center">Frontend Web Developer | React Enthusiast</h3>
