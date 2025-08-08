@@ -58,6 +58,13 @@ I’m a passionate web developer from Khulna, Bangladesh, currently learning and
 
 
 
+## 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=himu1028&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himu1028&layout=compact&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himu1028&show_icons=true&theme=default)
+
+
 
 
 ---
