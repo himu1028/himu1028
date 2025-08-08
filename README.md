@@ -50,11 +50,7 @@ I’m a passionate web developer from Khulna, Bangladesh, currently learning and
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=himu1028&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
 
 
