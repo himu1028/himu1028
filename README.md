@@ -26,6 +26,14 @@ I’m a passionate web developer from Khulna, Bangladesh, currently learning and
 
 ---
 
+## 🚀 Current Activities
+
+- 🌐 Exploring **Next.js**
+- 🧳 Building a **Rent a Car website**
+- 📖 Learning about **UI/UX best practices**
+
+---
+
 ### 🔗 Connect with Me
 
 <p align="left">
