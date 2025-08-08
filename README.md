@@ -29,7 +29,7 @@ I’m a passionate web developer from Khulna, Bangladesh, currently learning and
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/himu10" target="_blank">
+  <a href="https://www.linkedin.com/in/md-abuzar-hasan" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mdabuzarhasanhimu@gmail.com" target="_blank">
